@@ -1,5 +1,6 @@
 # simplegenetic
 Simple genetic algorithm implementation 
+
 Problem is list of n numbers with target sum 
 sum = target 
 eg : N=5 sum=200
