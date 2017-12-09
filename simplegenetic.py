@@ -1,12 +1,13 @@
 """
 Genetic Alogorithm 
-problem is a list on n numbers with sum 
- sum = target 
+Problem is list of n numbers with target sum sum = target
+sum = target 
 eg : N=5 sum=200
 solutions
 lst = [40,40,40,40,40]
 lst = [50,50,50,25,25]
 lst = [200,0,0,0,0]
+based on https://lethain.com/genetic-algorithms-cool-name-damn-simple/
 """
 
 from random import randint, random
